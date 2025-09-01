@@ -11,6 +11,7 @@ authors = [
 dependencies = [
   "pynput",
   "pygame",
+  "tqdm",
 ]
 classifiers = [
   "Programming Language :: Python :: 3",
