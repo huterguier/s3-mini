@@ -10,6 +10,8 @@ MEDIA_DIR = Path(__file__).resolve().parent.parent / "media"
 SOUNDS = {
     "samsung": MEDIA_DIR / "samsung.mp3",
     "metal_pipe": MEDIA_DIR / "metal_pipe_falling.mp3",
+    "moemax": MEDIA_DIR / "moemax.mp3",
+    "moneyboy": MEDIA_DIR / "moneyboy.mp3",
 }
 
 pygame.mixer.init()
