@@ -12,6 +12,7 @@ SOUNDS = {
     "metal_pipe": MEDIA_DIR / "metal_pipe_falling.mp3",
     "moemax": MEDIA_DIR / "moemax.mp3",
     "moneyboy": MEDIA_DIR / "moneyboy.mp3",
+    "thomas_train": MEDIA_DIR / "thomas_the_train.mp3"
 }
 
 pygame.mixer.init()
